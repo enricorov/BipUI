@@ -1,6 +1,6 @@
 # BipUI
 
-!(Logo)[docs/BipUI_logo.png)
+![Logo](docs/BipUI_logo.png)
 
 A C graphics library for [BipOS custom firmware](https://myamazfit.ru/threads/bip-mnvolkov-bipos-en.1087/).
 
